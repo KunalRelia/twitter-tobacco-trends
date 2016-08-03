@@ -1,6 +1,8 @@
 # twitter-tobacco-trends
 
-The code was written for research done under Prof. Rumi Chunara at NYU.
+**(Code and corresponding results will be posted soon.)**
+
+The code is written for research done under Prof. Rumi Chunara at NYU / ChunaraLab.
 
 The entire project is divided into two parts:
 
